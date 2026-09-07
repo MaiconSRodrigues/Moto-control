@@ -1,0 +1,9 @@
+{
+  "name": "Moto Control",
+  "short_name": "Moto",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#05080b",
+  "theme_color": "#05080b"
+}
